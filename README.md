@@ -1,5 +1,5 @@
 # MagicThemes
-Core for make themes on the MODX Revolution
+Core for make themes on the MODX Revolution. 
 Мини-ядро позволяющее создавать темы для MODX Revolution
 
 Исходный код пока не будет выложен. Тк в этом пока нет необходимости.
